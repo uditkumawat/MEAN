@@ -1,0 +1,19 @@
+{
+  "name": "udit",
+  "version": "1.0.0",
+  "description": "this is testing of new app",
+  "main": "yes",
+  "scripts": {
+    "test": "hello udit",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "nothing"
+  },
+  "keywords": [
+    "udit"
+  ],
+  "author": "udit",
+  "license": "UNLICENSED"
+}
